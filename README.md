@@ -6,7 +6,8 @@ Cada alumno debe:
 1. Crear un fork del repositorio.
 2. Agregar su carpeta personal.
 3. Subir el contenido de su proyecto: arcivos .html, .js; carpetas images e imgs. El archivo .html debe renombrarse como index.html
-4. Realizar un Pull Request.
+4. Activar pages de github.
+5. Realizar un Pull Request.
 
 Nombre obligatorio de la carpeta:
 
